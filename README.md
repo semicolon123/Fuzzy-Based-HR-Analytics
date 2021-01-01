@@ -1,4 +1,4 @@
-# ML_based_HR-Analytics
+# ML based HR-Analytics
 A predictive model to identify the factors that influence an employee to leave an organization.
 
 The aim is to do the analysis of the factors which are responsible due to which some students
